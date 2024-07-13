@@ -1,0 +1,32 @@
+2024-07-14 00:31:42 INFO  TC_001_AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
+2024-07-14 00:31:42 INFO  TC_001_AccountRegistrationtTest:19 - Clicked on My Account 
+2024-07-14 00:31:42 INFO  TC_001_AccountRegistrationtTest:22 - Clicked on Register 
+2024-07-14 00:31:42 INFO  TC_001_AccountRegistrationtTest:27 - Provided First Name 
+2024-07-14 00:31:42 INFO  TC_001_AccountRegistrationtTest:30 - Provided Last Name 
+2024-07-14 00:31:42 INFO  TC_001_AccountRegistrationtTest:34 - Provided Email 
+2024-07-14 00:31:42 INFO  TC_001_AccountRegistrationtTest:37 - Provided Telephone 
+2024-07-14 00:31:43 INFO  TC_001_AccountRegistrationtTest:40 - Provided Password 
+2024-07-14 00:31:43 INFO  TC_001_AccountRegistrationtTest:43 - Provided Confrmed Password 
+2024-07-14 00:31:43 INFO  TC_001_AccountRegistrationtTest:46 - Set Privacy Policy 
+2024-07-14 00:31:43 INFO  TC_001_AccountRegistrationtTest:49 - Clicked on Continue 
+2024-07-14 00:31:45 INFO  TC_001_AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
+2024-07-14 00:31:47 INFO  TC_002_LoginTest:16 - Starting TC_002_LoginTest
+2024-07-14 00:31:48 INFO  TC_002_LoginTest:48 -  Finished TC_002_LoginTest
+2024-07-14 01:06:25 INFO  TC_001_AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
+2024-07-14 01:06:25 INFO  TC_001_AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
+2024-07-14 01:06:27 INFO  TC_001_AccountRegistrationtTest:19 - Clicked on My Account 
+2024-07-14 01:06:27 INFO  TC_001_AccountRegistrationtTest:19 - Clicked on My Account 
+2024-07-14 01:08:07 INFO  TC_001_AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
+2024-07-14 01:08:08 INFO  TC_001_AccountRegistrationtTest:19 - Clicked on My Account 
+2024-07-14 01:08:10 INFO  TC_001_AccountRegistrationtTest:22 - Clicked on Register 
+2024-07-14 01:08:12 INFO  TC_001_AccountRegistrationtTest:27 - Provided First Name 
+2024-07-14 01:08:12 INFO  TC_001_AccountRegistrationtTest:30 - Provided Last Name 
+2024-07-14 01:08:13 INFO  TC_001_AccountRegistrationtTest:34 - Provided Email 
+2024-07-14 01:08:13 INFO  TC_001_AccountRegistrationtTest:37 - Provided Telephone 
+2024-07-14 01:08:13 INFO  TC_001_AccountRegistrationtTest:40 - Provided Password 
+2024-07-14 01:08:13 INFO  TC_001_AccountRegistrationtTest:43 - Provided Confrmed Password 
+2024-07-14 01:08:13 INFO  TC_001_AccountRegistrationtTest:46 - Set Privacy Policy 
+2024-07-14 01:08:14 INFO  TC_001_AccountRegistrationtTest:49 - Clicked on Continue 
+2024-07-14 01:08:16 INFO  TC_001_AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
+2024-07-14 01:08:25 INFO  TC_002_LoginTest:16 - Starting TC_002_LoginTest
+2024-07-14 01:08:32 INFO  TC_002_LoginTest:48 -  Finished TC_002_LoginTest
